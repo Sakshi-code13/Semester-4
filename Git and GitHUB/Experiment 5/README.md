@@ -39,3 +39,6 @@ In summary, a merge pull is a fundamental operation in Git used to integrate cha
 • Push the changes back to the remote repository using git push dope main after adding the file to the staging area and committing the changes.
 ![download (3)](https://github.com/Sakshi-code13/Semester-4/assets/119587392/16942884-dd3d-4639-879c-52a098f6c1a1)
 ![download (4)](https://github.com/Sakshi-code13/Semester-4/assets/119587392/bf214a94-e04b-46f5-aec6-1e453a0a4919)
+
+## Navigate 
+[Experiment 5](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%205/exp5.pdf)
