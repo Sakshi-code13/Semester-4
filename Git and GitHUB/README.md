@@ -6,15 +6,15 @@ Git and GitHub are integral tools in the software development process. Git's dis
 
 ## Experiments:-
 
-1. [Installation of Git and Create repository](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%201.pdf)
+1. [Installation of Git and Create repository](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%201/Experiment%201.pdf)
 In this experiment, we got to know about how to install Git on different operating devices with their different versions, and also acquired knowledge about how to create a repository with Git and GitHub.
-2. [Creating branches with GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%202.pdf)
+2. [Creating branches with GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%202/Experiment%202.pdf)
 In this experiment, we learned about different ways of creating branches, using Git and GitHub.
-3. [Create and explore Pull request](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%203.pdf)
+3. [Create and explore Pull request](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%203/Experiment%203.pdf)
 In this experiment, we enhanced ourselves by learning how to create and explore Pull requests, on Git and GitHub.
-4. [Editing a file and committing changes on GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%204.pdf)
+4. [Editing a file and committing changes on GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%204/Experiment%204.pdf)
 In this experiment, we learned to edit a file and commit changes to it on GitHub.
-5. [To merge the Pull request and update the local repository in local](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%205.pdf)
+5. [To merge the Pull request and update the local repository in local](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%205/exp5.pdf)
 In this experiment, we observed how to merge the Pull request and update the local repository in local.
-6. [Creation of Forks on GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%206.pdf)
+6. [Creation of Forks on GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%206/Experiment%206.pdf)
 In this experiment, we observed how to fork anyone else's repository to your account, and how to make changes to it using Git Bash.
