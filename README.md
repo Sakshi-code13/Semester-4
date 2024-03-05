@@ -10,7 +10,7 @@ Git and GitHub are integral tools in the software development process. Git's dis
 
 ## Experiments:-
 
-1. [Installation of Git and Create repository](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%201.pdf)
+1. [Installation of Git and Create repository](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%201/Experiment%201.pdf)
 In this experiment, we got to know about how to install Git on different operating devices with their different versions, and also acquired knowledge about how to create a repository with Git and GitHub.
 2. [Creating branches with GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%202.pdf)
 In this experiment, we learned about different ways of creating branches, using Git and GitHub.
