@@ -18,3 +18,11 @@ In this experiment, we learned to edit a file and commit changes to it on GitHub
 In this experiment, we observed how to merge the Pull request and update the local repository in local.
 6. [Creation of Forks on GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Git%20and%20GitHUB/Experiment%206.pdf)
 In this experiment, we observed how to fork anyone else's repository to your account, and how to make changes to it using Git Bash.
+
+## Back to the 
+[main](https://github.com/Sakshi-code13/Semester-4/tree/main)
+
+[Design and Analysis of Algorithm](https://github.com/Sakshi-code13/Semester-4/tree/Design-and-Analysis-of-Algorithms)
+
+[Agile Practices](https://github.com/Sakshi-code13/Semester-4/tree/Agile-Practices)
+
